@@ -1,7 +1,7 @@
 public class Code37 {
   public static void main(String[] args) {
     for(int i = 0; i < 10; i++) {
-      System.out.println("こんにちは");
+      System.out.println("現在" + (i + 1) + "週目");
     }
   }
 }
