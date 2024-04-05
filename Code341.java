@@ -5,11 +5,14 @@ public class Code341 {
     switch (fortune) {
         case 1 -> {
         System.out.println("大吉");
-      } case 2 -> {
+      } 
+      case 2 -> {
         System.out.println("中吉");
-      } case 3 -> {
+      } 
+      case 3 -> {
         System.out.println("吉");
-      } default -> {
+      } 
+      default -> {
         System.out.println("凶");
       }
     }
